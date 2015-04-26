@@ -1,0 +1,19 @@
+//
+//  suuweibo_prefix.pch
+//  suuweibo
+//
+//  Created by XuWeihao on 4/26/15.
+//  Copyright (c) 2015 weihaoxu. All rights reserved.
+//
+
+#ifndef __IPHONE_3_0 
+
+#endif
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIkit.h>
+#import <QuartzCore/QuartzCore.h>
+#endif
+
+#import "WXHLGlobalUICommon.h"
